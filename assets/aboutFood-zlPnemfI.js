@@ -1,1 +1,0 @@
-import{r as e,C as r,j as s}from"./index-DVYjsJaR.js";const x=()=>{var t;let{data:a}=e.useContext(r),[o,d]=e.useState(JSON.parse(localStorage.getItem(a)));return s.jsx("div",{children:(t=o.foodItem)==null?void 0:t.name})};export{x as default};
